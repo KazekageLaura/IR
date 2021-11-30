@@ -1,0 +1,63 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(248, 245, 207);
+    margin: 4vw;
+}
+
+#title h1 {
+    text-align: center;
+    margin-top: 4vh;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.inputs{
+    position: relative;
+    text-align: center;
+    margin: 4vh 3%;
+    width: 94%;
+    box-shadow: inset 0px 0px 37px 29px rgba(99, 122, 255, 0.42);
+    padding: 16px;
+    border-radius: 16px;
+    border: 0;
+}
+
+#name{
+    margin-top: 6vh;
+}
+
+#button{
+    text-align: center;
+    margin: 2vh 15%;
+    width: 70%;
+    box-shadow: inset 0px 0px 37px 29px rgba(113, 255, 248, 0.781);
+    padding: 16px;
+    border-radius: 16px;
+}
+
+#tabela{
+    border-radius: 16px;
+}
+
+#tabela th{
+    text-align: center;
+    font-size: 14px;
+}
+
+#limpar{
+    margin-left: 64%;
+    background-color:#051636;
+    color: #ffffff;
+    width: 25vw;
+    height: 30px;
+    border-radius: 50px 50px 50px 50px; 
+    border: none;
+    margin-bottom: 50px;
+
+}
